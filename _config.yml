@@ -5,11 +5,26 @@ description: "Drupal developer based in Spain."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: ''
 disqus: 'alvar0hurtad0-es'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
+
+lang: es_ES
+
+twitter:
+  username: alvar0hurtad0
+  card: summary
+
+social:
+  name: Alvaro J. Hurtado Villegas
+  links:
+    - https://twitter.com/alvar0hurtad0
+    - https://www.facebook.com/alvar0hurtad0
+    - https://www.linkedin.com/in/alvar0hurtad0
+    - https://github.com/alvar0hurtad0
+
 
 # Authors
 authors:
