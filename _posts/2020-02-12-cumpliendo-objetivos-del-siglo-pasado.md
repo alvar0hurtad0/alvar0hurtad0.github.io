@@ -16,5 +16,5 @@ No, no me refiero a comprarme un teclado MIDI, sino a tener un espacio para expr
 
 Solo espero que a alguien le pueda ser útil lo que yo opine y publique en este blog.
 
-Con la publicación de este artículo, dejo tachadas por completo mis listas de propósitos de año nuevo desde el año 2000 al 2018.  Supongo que entendáis que me ahora mismo me siento muy liberado y tengo ganas de celebrarlo.
+Con la publicación de este artículo, dejo tachadas por completo mis listas de propósitos de año nuevo desde el año 2000 al 2018.  Supongo que entendáis que ahora mismo me siento muy liberado y tengo ganas de celebrarlo.
 
