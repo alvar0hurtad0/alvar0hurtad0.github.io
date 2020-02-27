@@ -25,7 +25,7 @@ Las palabras mágicas son:
 
 # NO TE FLIPES
 
-Y es que es esto del software todos podemos caer en la tentacin de fliparnos. El cliente, puede pedir features de más que ni necesita ni le aportan valor, pero simplemente le molan. Hay de nuevo muchas clasificaciones, pero a mi me gusta simplicarlo en tres niveles.
+Y es que es esto del software todos podemos caer en la tentación de fliparnos. El cliente, puede pedir features de más que ni necesita ni le aportan valor, pero simplemente le molan. Hay de nuevo muchas clasificaciones, pero a mi me gusta simplicarlo en tres niveles.
  * Funcionalidades esenciales. Son aquellas (muy poquitas) cuya ausencia hace que el sistema carezca de sentido. Son las que deberían ocupar nuestro esfuerzo en las primeras fases y las que deben funcionar siempre.
  * Funcionalidades valorables. Son aquellas que aportan mucho valor pero que si no están, el sistema puede existir. Esta suele ser una lista enorme, por lo que es importante priorazarla en base al esfuerzo que necesitan para desarrollarlas, el riesgo y el valor que aportan.
  * Funcionalidades que me han molado porque las he visto y las quiero. Esta es una lista interminable de cosas que en mi experiencia es mejor no hacer.
