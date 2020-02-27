@@ -30,5 +30,10 @@ Y es que es esto del software todos podemos caer en la tentacin de fliparnos. El
  * Funcionalidades valorables. Son aquellas que aportan mucho valor pero que si no están, el sistema puede existir. Esta suele ser una lista enorme, por lo que es importante priorazarla en base al esfuerzo que necesitan para desarrollarlas, el riesgo y el valor que aportan.
  * Funcionalidades que me han molado porque las he visto y las quiero. Esta es una lista interminable de cosas que en mi experiencia es mejor no hacer.
 
-Pero cuidado, los desarrolladores también tendemos a fliparnos. Algunas veces cuando nos emocionamos con los requisitos del cliente y otras veces cuando vemos una charla algo muy chulo que no hemos probado y queremos ver si nos soluciona los problemas aplicándolo por primera vez en un proyecto complejo, largo y ajustado de plazos (¿Qué podría salir mal?).
+Pero cuidado, los desarrolladores también tendemos a fliparnos. Algunas veces cuando nos emocionamos con los requisitos del cliente y otras veces cuando vemos una charla algo muy chulo que no hemos probado y queremos ver si nos soluciona todos nuestros problemas aplicándolo por primera vez en un proyecto complejo, largo y ajustado de plazos (¿Qué podría salir mal?).
 
+Esto de las cosas que vemos en las charlas y salimos flipados dará para otro post. Normalmente en las charlas hay mucho postureo. En algunas ocasiones se cuentan solo las bondades de las cosas y es muy complicado que aplicar una tecnología o metodología traiga solo consecuencias positivas. Pero creo que esto es para otro post.
+
+En resumen, y por concluir creo que es bueno de vez en cuando poner los pies en la tierra y repetirse a uno mismo:
+
+NO TE FLIPES
