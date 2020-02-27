@@ -23,7 +23,7 @@ A mi me gusta resumirlo todo en tres palabras que me repito a menudo, y que algu
 
 Las palabras mágicas son:
 
-#NO TE FLIPES
+# NO TE FLIPES
 
 Y es que es esto del software todos podemos caer en la tentacin de fliparnos. El cliente, puede pedir features de más que ni necesita ni le aportan valor, pero simplemente le molan. Hay de nuevo muchas clasificaciones, pero a mi me gusta simplicarlo en tres niveles.
  * Funcionalidades esenciales. Son aquellas (muy poquitas) cuya ausencia hace que el sistema carezca de sentido. Son las que deberían ocupar nuestro esfuerzo en las primeras fases y las que deben funcionar siempre.
@@ -36,4 +36,4 @@ Esto de las cosas que vemos en las charlas y salimos flipados dará para otro po
 
 En resumen, y por concluir creo que es bueno de vez en cuando poner los pies en la tierra y repetirse a uno mismo:
 
-NO TE FLIPES
+# NO TE FLIPES
