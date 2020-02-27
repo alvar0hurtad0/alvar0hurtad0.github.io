@@ -3,8 +3,8 @@ layout: post
 title:  "En tres palabras"
 author: alvaro
 categories: [ Desarrollo de software ]
-image: 
-image_credits: 
+image: assets/images/superdog.jpg
+image_credits: https://unsplash.com/@eli_j
 description: "Todo lo que he aprendido sobre desarrollar software con éxito se puede resumir en solo 3 palabras: NO TE FLIPES."
 featured: false
 hidden: false
