@@ -3,8 +3,8 @@ layout: post
 title:  "Cumpliendo objetivos del siglo pasado"
 author: alvaro
 categories: [ Personal ]
-image: assets/images/vintage.jpg
-image_credits: Clem Onojeghuo
+image: assets/images/superdog.jpg
+image_credits: https://unsplash.com/@eli_j
 description: "A finales del siglo pasado se pusieron de moda los blogs, los pantalones campana y la música hortera. Desde entonces siempre he tenido ganas de acercarme a una de esas modas."
 featured: false
 hidden: false
