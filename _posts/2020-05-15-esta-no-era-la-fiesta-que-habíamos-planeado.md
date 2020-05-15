@@ -3,8 +3,8 @@ layout: post
 title:  "Esta no era la fiesta que habíamos planeado"
 author: alvaro
 categories: [ Personal ]
-image: assets/images/superdog.jpg
-image_credits: https://unsplash.com/@eli_j
+image: assets/images/michal-balog-HkOK6xWq38k-unsplash.jpg
+image_credits: https://unsplash.com/@mikbutcher
 description: "Están pasando muchas cosas, pero la vida sigue y hay que hacer que con ella todo siga."
 featured: false
 hidden: false
