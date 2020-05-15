@@ -13,7 +13,7 @@ Durante esta pandemia todos hemos tenido momentos buenos y momentos malos. En mi
 
 Así han pasado dos meses, y creo que solamente he tenido un momento malo. Fue ayer, cuando fui a comprar y entre la enorme lista de la compra con comida para una semana había una vela de cumpleaños.
 
-El lunes Estela cumplirá 3 años. Ella está siempre alegre (menos cuando se enfada, que es un auténtico terremoto). No sabe estar triste, tiene una gran ilusión por su cumpleaños porque sabe cómo son los cumpleaños y esta vez es el suyo. Hasta donde recuerda, que no es más allá de unos meses, siempre ha estado en segundo plano en esas fiestas en las que se juntan decenas de niños, toda la familia cantando, una tarta, una piñata muchos regalos. Ella ya sabe lo que es una fiesta.
+El lunes Estela cumplirá 3 años. Ella está siempre alegre (menos cuando se enfada, que es un auténtico terremoto). No sabe estar triste, tiene una gran ilusión por su cumpleaños porque sabe cómo son los cumpleaños y esta vez es el suyo. Hasta donde recuerda, que no es más allá de unos meses, siempre ha estado en segundo plano en esas fiestas en las que se juntan decenas de niños, toda la familia cantando, una tarta, una piñata y muchos regalos. Ella ya sabe lo que es una fiesta.
 
 El lunes estaremos nosotros 4, como todos los días. Es cierto que será su cumpleaños, es cierto que tendrá regalos, canciones y una tarta con una vela. Pero no será la fiesta que espera.
 
