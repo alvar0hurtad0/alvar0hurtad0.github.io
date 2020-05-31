@@ -10,7 +10,7 @@ featured: false
 hidden: false
 ---
 
-Es increible la de ideas que he tenido en la autovía que conecta Madrid y Cáceres. El hecho de haber pasado 4 años viajando casi una vez por semana a Madrid desde mi casa en Cáceres sin otro medio más eficaz que el coche me ha hecho pasar muchas horas solo al volante.
+Es increible la de ideas que he tenido en la autovía que conecta Madrid y Cáceres. El hecho de haber pasado 4 años viajando casi una vez por semana a Madrid, desde mi casa en Cáceres sin otro medio más eficaz que el coche, me ha hecho pasar muchas horas solo al volante.
 
 El día que tocaba viaje, eran 6 horas en las que daba tiempo a escuchar las noticias en la radio, cantar, llamar por teléfono a gente con la que hacía mucho tiempo que no hablaba y sobre todo a una cosa: aburrirme.
 
