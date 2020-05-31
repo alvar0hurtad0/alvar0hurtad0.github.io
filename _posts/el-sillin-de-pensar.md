@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "El sillín de pensar"
+author: alvaro
+categories: [ Personal ]
+image: assets/images/carretera.jpg
+image_credits: https://alvar0hurtad0.es
+description: "Hace algunos años, pasaba mucho tiempo conduciendo solo. Estos momentos eran clave para pensar, Ahora que apenas viajo echaba de menos esos momentos para reflexionar."
+featured: false
+hidden: false
+---
+
+Es increible la de ideas que he tenido en la autovía que conecta Madrid y Cáceres. El hecho de haber pasado 4 años viajando casi una vez por semana a Madrid desde mi casa en Cáceres sin otro medio más eficaz que el coche me ha hecho pasar muchas horas solo al volante.
+
+El día que tocaba viaje, eran 6 horas en las que daba tiempo a escuchar las noticias en la radio, cantar, llamar por teléfono a gente con la que hacía mucho tiempo que no hablaba y sobre todo a una cosa: aburrirme.
+
+Hay estudios que indican que cuando nos aburrimos somos más creativos, somos capaces de utilizar mejor nuestro pensamiento lateral para resolver problemas que no sabemos bien cómo afrontar y reparar en detalles que pueden ayudarnos a tomar decisiones [https://www.bbc.com/mundo/vert-cap-40784675].
+
+En este sentido, hay pocas cosas más aburridas que conducir por una autovía, siguiendo una línea durante 6 horas. Era un tiempo para reflexionar y tomar decisiones. Con las notificaciones del móvil desconectadas, sin trabajar, sin contestar correos, sin distracciones. Solo con mis ideas dispersas dispuestas a conectarse unas con otras.
+
+Reconozco que echaba de menos esos ratos que apenas existieron cuando empecé a trabajar en remoto. El trabajo en remoto hace muchísimo más eficiente el tiempo. Eliminas el tiempo de ir a trabajar, eliminas el tiempo de espera en las reuniones, lo el
