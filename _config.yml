@@ -13,6 +13,10 @@ permalink: /:title/
 
 lang: es_ES
 
+collections:
+  talks:
+    title: 'test'
+
 twitter:
   username: alvar0hurtad0
   card: summary
