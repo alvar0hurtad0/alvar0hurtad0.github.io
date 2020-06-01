@@ -3,7 +3,7 @@ layout: post
 title:  "El sillín de pensar"
 author: alvaro
 categories: [ Personal ]
-image: assets/images/carretera.jpg
+image: assets/images/carretera.png
 image_credits: https://alvar0hurtad0.es
 description: "Hace algunos años, pasaba mucho tiempo conduciendo solo. Estos momentos eran clave para pensar, Ahora que apenas viajo echaba de menos esos momentos para reflexionar."
 featured: false
