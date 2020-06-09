@@ -10,8 +10,7 @@ title: Talks
     <div class="row listrecent">
 
     {% for talk in site.talks %}
-        {{ talk.title }}
-        {{ talk.event }}
+        {% include talk_teaser.html %}
     {% endfor %}
 
     </div>

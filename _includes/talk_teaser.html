@@ -1,0 +1,46 @@
+<!-- begin talk teaser -->
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            {% if talk.image %}
+                {% if site.lazyimages == "enabled" %}
+                    <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if talk.image contains "://" %}{{ talk.image }}{% else %}{{ site.baseurl }}/{{ talk.image }}{% endif %}" alt="{{ talk.title }}">
+                {% else %}
+                    <img class="img-fluid" src="{% if talk.image contains "://" %}{{ talk.image }}{% else %}{{ site.baseurl }}/assets/talks/pictures/{{ talk.image }}{% endif %}" alt="{{ talk.title }}">
+                {% endif %}
+            {% endif %}
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                {{ talk.title }}
+            </h2>
+            <h4 class="card-text">{{ talk.date | date_to_string }} <strong>{{ talk.event }}</strong></h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-read-more">
+                    {% if talk.video %}
+                    <a href="{{ talk.video }}" target="_blank" title="Ver vídeo: {{ talk.title }}">
+                        <img
+                                src="{{ site.baseurl }}/assets/icons/video.svg"
+                                alt="Video {{ talk.title }}"
+                                height="25"
+                        />
+                    </a>
+                    {% endif %}
+                    {% if talk.slides %}
+                    <a href="{% if talk.slides contains "://" %}{{ talk.slides }}{% else %}{{ site.baseurl }}/assets/talks/slides/{{ talk.slides }}{% endif %}" title="Descargar presentación: {{ talk.title }}">
+                        <img
+                                src="{{ site.baseurl }}/assets/icons/slides.svg"
+                                alt="Slides {{ talk.title }}"
+                                height="25"
+                        />
+                    </a>
+                    {% endif %}
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end talk teaser -->
