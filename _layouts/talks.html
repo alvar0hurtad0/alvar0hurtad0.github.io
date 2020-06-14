@@ -9,7 +9,7 @@ title: Talks
     </div>
     <div class="row listrecent">
 
-    {% for talk in site.talks %}
+    {% for talk in site.talks reversed %}
         {% include talk_teaser.html %}
     {% endfor %}
 
