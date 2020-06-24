@@ -8,10 +8,8 @@ title: Talks
         <h2>{{ page.title }}</h2>
     </div>
     <div class="row listrecent">
-
     {% for talk in site.talks reversed %}
         {% include talk_teaser.html %}
     {% endfor %}
-
     </div>
 </section>

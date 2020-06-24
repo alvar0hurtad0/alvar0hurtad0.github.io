@@ -1,7 +1,6 @@
 ---
-title: Analítica web sobre drupal
-event: Drupal Camp Spain 2013
-image: analitica-web-sobre-drupal.png
-slides: analitica-web-sobre-drupal.pdf
-video: https://vimeo.com/81890398
+title: 10 tips para empezar a desarrollar en drupal
+event: Drupal Camp Spain 2019
+image: tips-desarrollar-drupal.png
+slides: tips-desarrollar-drupal.pdf
 ---
