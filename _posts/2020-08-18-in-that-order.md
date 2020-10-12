@@ -3,8 +3,8 @@ layout: post
 title:  "In that order"
 author: alvaro
 categories: [ Tecnología ]
-image: 
-image_credits: https://alvar0hurtad0.es
+image: assets/images/wales-golf-madrid.jpg
+image_credits: https://www.marca.com/futbol/real-madrid/2019/11/21/5dd6eecaca47411c6f8b45b0.html
 description: "Llenar la vida solo de las cosas importantes hace que todo sea más sencillo"
 featured: false
 hidden: false
@@ -16,7 +16,7 @@ A finales de 2019 se dio un caso muy curioso. Después de un partido con su sele
 
 Dejó claras sus prioridades y en qué pone más atención en su día a día. Y esto es algo que puede ayudarnos a muchos para saber qué cosas debemos hacer y qué cosas no.
 
-Esta idea no es nueva, de hecho es recurrente en los libros de personas como Warrent Buffet, el cual escribía sobre su famosa regla del 5/25. Esta regla consiste basicamente en hacer una lista con las 25 metas que uno tenga en la vida y de esas 25 elegir las 5 más importantes. Una vez hecho esto, olvidarse por completo de todo lo que no esté relacionado con conseguir esas 5 metas.
+Esta idea no es nueva, de hecho es recurrente en los libros de productividad. Uno de los ejemplos es Warrent Buffet, el cual escribía sobre su famosa regla del 5/25. Esta regla consiste basicamente en hacer una lista con las 25 metas que uno tenga en la vida y de esas 25 elegir las 5 más importantes. Una vez hecho esto, olvidarse por completo de todo lo que no esté relacionado con conseguir esas 5 metas. Este planteamiento puede resultar muy radical, pero no creo que todo el mundo quiera ser como Warrent Buffet.
 
 No podemos estar a todo. En un mundo lleno de notificaciones que requieren nuestra atención y nuestro tiempo es importante saber qué cosas realmente requieren nuestra atención y qué cosas debemos dejar pasar sin gastar energía ni tiempo en ellas. En mi caso personal definí mis prioridades en mi Bio de twitter hace unos meses:
 
@@ -30,5 +30,15 @@ Cada vez que empiezo a hacer algo que no ayuda de alguna forma dentro de mi list
 
 Tengo claro que si algo es valioso en la vida es el tiempo. No nos queda más remedio que vender parte de nuestro tiempo para conseguir dinero, pero es demasiado valioso para regalarlo a quien ni tan siquiera sabe apreciarlo. Hace tiempo solía pasar horas escribiendo en chats que no me aportaban nada, viendo algún partido de fútbol o cazando Pokèmon en el móvil. Todas esas horas dedicadas a esas tareas de las que se beneficiaban otros, se las estaba quitando a otras cosas que podrían ser mucho más importantes o productivas.
 
-Otro truco que aplico es, además de la famosas listas de cosas por hacer, listas de cosas que NO voy a hacer. De esta forma suelo tener mi lista de TO-DO y mi lista de NOT-TO-DO. Estas listas de cosas que no voy a hacer me han ayudado mucho a evitar distracciones. Hay por ejemplo elementos como "NO ver vídeos de youtube en el ordenador del trabajo" o "NO abrir el correo del trabajo en el ordenador del ocio". Vale, tengo dos ordenadores. Pero si solo tuviera uno, tendría dos usuarios.
+Otro truco que aplico es, además de la famosas listas de cosas por hacer, listas de cosas que NO voy a hacer. De esta forma suelo tener mi lista de TO-DO y mi lista de NOT-TO-DO. Estas listas de cosas que no voy a hacer me han ayudado mucho a evitar distracciones. Hay por ejemplo elementos como "NO ver vídeos de youtube en el ordenador del trabajo" o "NO abrir el correo del trabajo en el ordenador del ocio". Vale, tengo dos ordenadores. Pero si solo tuviera uno, tendría dos usuarios o pondría el límite según esté utilizando el ordenador en el espacio que tengo para trabajar o el resto de la casa.
 
+Me gustaría terminar con dos frases de dos autores que me han marcado mucho, ahí las dejo para que cada uno piense sobre el tema.
+
+<blockquote>
+    No hay nada tan inútil como hacer con gran eficiencia algo que no debería haberse hecho en absoluto.
+    <span class="author">Peter Drucker</span>
+</blockquote>
+<blockquote>
+Haz primero el trabajo duro. Los trabajos fáciles se resolverán por si mismos.
+<span class="author">Dale Carnegie</span>
+</blockquote>
