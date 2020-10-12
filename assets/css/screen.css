@@ -351,6 +351,12 @@ blockquote {
     color: rgba(0, 0, 0, .5);
 }
 
+blockquote .author{
+    display: block;
+    text-align: right;
+    font-style: normal;
+}
+
 .article-post p,
 .article-post blockquote {
     margin: 0 0 1.5rem 0;
