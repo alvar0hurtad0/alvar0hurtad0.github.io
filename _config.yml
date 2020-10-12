@@ -16,6 +16,8 @@ lang: es_ES
 collections:
   talks:
     title: 'test'
+  microblog:
+    output: true
 
 twitter:
   username: alvar0hurtad0

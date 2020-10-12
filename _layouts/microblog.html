@@ -1,0 +1,17 @@
+---
+layout: default
+title: FU Twiter
+---
+
+<section class="recent-posts">
+    <div class="section-title">
+        <h2>FU Twitter</h2>
+        <p>Estoy cansado del twitter, al carajete.</p>
+    </div>
+
+    <div class="row listrecent">
+    {% for micropost in site.microblog reversed %}
+        {% include microblog_teaser.html %}
+    {% endfor %}
+    </div>
+</section>

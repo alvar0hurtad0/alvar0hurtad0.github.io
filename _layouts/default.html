@@ -56,10 +56,12 @@
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
                 </li>
-
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/charlas">Charlas</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.baseurl }}/microblog">FU Twitter</a>
+                    </li>
                 {% include search-lunr.html %}
             </ul>
         <!-- End Menu -->
@@ -86,11 +88,10 @@
 <div class="alertbar">
 	<div class="container text-center">
         <span> keep in touch </span>
-        <a href="https://www.twitter.com/alvar0hurtad0" class="icon" target="_blank" rel="nofollow" title="find me on twitter"><i class="fab fa-twitter"></i></a>
-        <a href="https://www.drupal.org/u/alvar0hurtad0" class="icon" target="_blank" rel="nofollow" title="find me on drupal.org"><i class="fab fa-drupal"></i></a>
-        <a href="https://t.me/alvar0hurtad0" class="icon" target="_blank" rel="nofollow"  title="find me on telegram"><i class="fab fa-telegram"></i></a>
-        <a href="https://github.com/alvar0hurtad0" class="icon" target="_blank" rel="nofollow" title="find me on Github"><i class="fab fa-github"></i></a>
-        <a href="https://www.strava.com/athletes/13993814" class="icon" target="_blank" rel="nofollow" title="find me on Strava"><i class="fab fa-strava"></i></a>
+        <a href="https://www.twitter.com/alvar0hurtad0" class="icon" rel="noopener" target="_blank" rel="nofollow" title="find me on twitter"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.drupal.org/u/alvar0hurtad0" class="icon" rel="noopener" target="_blank" rel="nofollow" title="find me on drupal.org"><i class="fab fa-drupal"></i></a>
+        <a href="https://github.com/alvar0hurtad0" class="icon" rel="noopener" target="_blank" rel="nofollow" title="find me on Github"><i class="fab fa-github"></i></a>
+        <a href="https://www.strava.com/athletes/13993814" class="icon" rel="noopener" target="_blank" rel="nofollow" title="find me on Strava"><i class="fab fa-strava"></i></a>
 
 	</div>
 </div>
@@ -106,7 +107,7 @@
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/" rel="nofollow">Mediumish Jekyll Theme</a> by WowThemes.net
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/" rel="noopener" >Mediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
