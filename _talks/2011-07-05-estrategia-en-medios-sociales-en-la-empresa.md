@@ -1,6 +1,6 @@
 ---
-title: Patternlab y drupal
-event: Drupalday Spain 2019
-image: patternlab-drupal.jpg
-slides: patternlab-drupal.pdf
+title: Estrategia en medios sociales en la empresa
+event: Varios
+image: estrategia-en-medios-sociales-en-la-empresa.jpg
+slides: estrategia-en-medios-sociales-en-la-empresa.pdf
 ---
