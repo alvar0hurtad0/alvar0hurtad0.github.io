@@ -19,7 +19,7 @@ Hay fundamentalmente cinco razones detrás de la segurida de Drupal:
     
 Posiblemente digas “Bueno, la mayoría de gestores de contenido se distribuyen bajo el modelo de código abierto ¿Por qué va a ser esto una ventaja para drupal?”. Vamos a mirar un poco más allá en el ecosistema el gestor de contenidos. La mayoría se distribuyen como código abierto, pero sus módulos, complementos y temas se están sujetos a un sistema puramente comercial. En el caso de WordPress, por ejemplo, la venta de complementos es muy popular y hace que su modelo de código abierto se vea limitado. La comunidad de drupal ha desarrollado un modelo completamente diferente y centralizado.
 
-Fundamentalmente consiste en que los módulos gratuitos que se encuentran dispobles desde [drupal.org](http://drupal.org), tienen una cobertura adicional gracias al programa interno de seguridad. A pesar de que está manera de hacer las cosas complica de alguna manera la creación y publicacin de nuevos módulos y temas, también hace mucho más difícil que llegue a estos módulos y temas algún tipo de código malicioso. Este modelo centralizado también tiene ventajas cuando se descubren problemas de seguridad en el mismo drupal. Esto quedó perfectamente demostrado en la actualización de seguridad SA-CORE-2019-003, que cubría tanto el core de drupal como algunos módulos muy utilizados.
+Fundamentalmente consiste en que los módulos gratuitos que se encuentran dispobles desde [drupal.org](http://drupal.org), tienen una cobertura adicional gracias al programa interno de seguridad. A pesar de que está manera de hacer las cosas complica de alguna manera la creación y publicación de nuevos módulos y temas, también hace mucho más difícil que llegue a estos módulos y temas algún tipo de código malicioso. Este modelo centralizado también tiene ventajas cuando se descubren problemas de seguridad en el mismo drupal. Esto quedó perfectamente demostrado en la actualización de seguridad SA-CORE-2019-003, que cubría tanto el core de drupal como algunos módulos muy utilizados.
 
 ## 2. El equipo de seguridad
 
@@ -28,7 +28,6 @@ Se puede oir hablar sobre errores críticos de drupal a menudo. En 2018 y 2019 t
 
 El equipo de seguridad, actualmente consiste en más de 30 personas de varias empresas y organizaciones de diferentes partes del mundo. Se ha ganado una merecida reputación (gracias a hacer su labor de una manera eficiente y calificada por algunos como paranoica) en cuestiones de seguridad, además cuenta con el apoyo de voluntarios y con "caza-recompensas" del programa "Bug Bounty"
 
-  
 
 ## 3. Soporte de las organizaciones
 
