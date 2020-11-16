@@ -29,22 +29,31 @@ Aunque la forma en que se utiliza un determinado CMS es muy importante. Drupal e
 
 El apoyo de estas grandes organizaciones es muy importante y necesario, gracias a ello, un proyecto de código abierto se convierte en un bien común, cuyo desarrollo beneficiará a todos los interesados. Como curiosidad, me gustaría mencionar que a principios de 2019 la Comisión Europea anunció el programa EU FOSSA 2 (The European Commission Free and Open Source Software Audit), cuyo segundo mayor beneficiario es fue Drupal. Como parte del programa, las personas que reportaran errores errores de seguridad recibirán una recompensa monetaria, cuyo monto dependería de lo grave que fuera
 
-4. Composer and the components of Symfony
-Since version 8, Drupal is integrated with Symfony components. It's a huge leap forward, towards code standardisation. The use of proven modules, such as EventDispatcher, HttpFoundation/HttpKernel and Routing, relieves developers of the need to maintain their own solutions. At the same time, the Symfony community is gaining new developers and new sponsors. Thanks to this, the level of security is constantly rising, because the basic libraries are getting more and more "tight".
+4. Composer y los componentes de Symfony
+Desde la versión 8, Drupal está integrado con componentes Symfony. Es un gran salto adelante, hacia la estandarización del código. El uso de módulos probados, como EventDispatcher, HttpFoundation/HttpKernel y Routing, reduce la carga de trabajo en mantenimiento y seguridad puesto que se colabora con el desarrollo de esos módulos. Al mismo tiempo, la comunidad Symfony está ganando nuevos desarrolladores y nuevos patrocinadores. Gracias a esto, el nivel de seguridad está aumentando constantemente, porque las bibliotecas en las que se basa todo están cada vez más controladas.
 
-Symfony is not only a collection of libraries, it is also equipped with Composer – an excellent package manager created based on the npm model. It was already possible to use it with Drupal 7, but in version 8 it became a downright obligatory addition, without which it is hard to even imagine the ongoing maintenance of pages. It can deal with complex dependencies, downloading libraries other than PHP, patching and running installation scripts. Today, when the Composer's operation is very well-developed, it's safe to say that it's a milestone in updating the Drupal code.
+Symfony no sólo es una colección de bibliotecas, sino que también está equipado con Composer - un excelente administrador de paquetes creado en base al modelo npm. Ya era posible usarlo con Drupal 7, pero en la versión 8 se convirtió en la manera estándar de añadir módulos y bibliotecas, sin la cual es difícil incluso imaginar el mantenimiento continuo de las páginas. Puede solucionar dependencias complejas, descargando librerías diferentes a PHP, parcheando y ejecutando scripts de instalación. Hoy en día Composer funciona muy bien, por lo que la estandarización de su uso se considera un paso muy importante en el avance del desarrollo de drupal.
 
-5. Security mechanisms
-I've already written about many organisational, money and design factors. I didn't, however, specifically mention what mechanisms protect a webmaster from an attack on his site. Here are some of them:
+5. Mecanismos de seguridad
+Ya se ha hablado sobre muchos factores de organización, dinero y diseño. Sin embargo, puede quedar alguna duda sobre que mecanismos protegen a un webmaster de un ataque a su sitio. Aquí están algunos de ellos:
 
-Users' passwords are stored in a hashed form, using salt and multiplicative hash function. This makes brute force attacks more difficult to carry out.
-The site configuration can be saved to .yml files and compared to its previous version. What's more, you can save it in the code repository using the Features module. It's an excellent solution that greatly limits the possibility of unnoticed database infection.
-Advanced permission management allows you to define user roles and assign them activities that they can perform on the site. The creators of Drupal put a lot of emphasis on this issue, and today it results in a high degree of security.
-The error reporting system records every security breach, including missing .htaccess files in sensitive directories.
-The update system allows for downloading and installing the latest versions of modules from the admin panel. It's very convenient on shared hostings, that do not always have the ability to use Composer.
-The Twig language used to create templates has advanced mechanisms used to defend against XSS and CSRF attacks.
-The extensive cache allows you to effectively defend against DoS attacks.
-It is possible to fully encrypt the database.
-It is worth adding that Drupal complies with the OWASP (Open Web Application Security Project) standard, defining the basic security principles that a modern web project must meet.
+ * Las contraseñas de los usuarios se almacenan en forma de hash, usando sal y función multiplicativa de hash. Esto hace que los ataques de fuerza bruta sean más difíciles de llevar a cabo.
 
-Con el permiso de Droptica <a href="https://www.droptica.com/blog/why-drupal-more-secure-any-other-cms/">drupal agency</a>.
+ * La configuración del sitio puede ser guardada en archivos .yml y comparada con su versión anterior. Además, suele exportarse en código en el repositorio. Esta es una excelente solución que limita en gran medida la posibilidad de una infección inadvertida de la base de datos.
+
+ * La gestión avanzada de permisos permite definir los roles de los usuarios y asignarles actividades que pueden realizar en el sitio. Los creadores de Drupal pusieron mucho énfasis en este tema, y hoy en día resulta en un alto grado de seguridad.
+
+ * El sistema de reporte de errores registra cada posible problem de seguridad, incluyendo los archivos .htaccess perdidos en directorios sensibles.
+
+ * El sistema de actualización permite descargar e instalar las últimas versiones de los módulos desde el panel de administración. Es muy conveniente en los hostings compartidos, que no siempre tienen la capacidad de usar Composer.
+
+ * El lenguaje Twig utilizado para crear plantillas tiene mecanismos avanzados para defenderse de los ataques XSS y CSRF.
+
+ * El sistema de caché permite aguantar ataques DoS.
+
+ * Es posible encriptar completamente la base de datos.
+
+  * Vale la pena añadir que Drupal cumple con el estándar OWASP (Open Web Application Security Project), que define los principios básicos de seguridad que debe cumplir un proyecto web moderno.
+
+
+Basado en un post de Droptica <a href="https://www.droptica.com/blog/why-drupal-more-secure-any-other-cms/">drupal agency</a> y por supuesto con su permiso.
