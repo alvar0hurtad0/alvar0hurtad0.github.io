@@ -18,4 +18,5 @@ group :jekyll_plugins do
     gem 'kramdown', '>= 2.3.0'
     gem 'kramdown-parser-gfm'
     gem 'rouge'
+    gem 'jekyll_picture_tag'
 end
