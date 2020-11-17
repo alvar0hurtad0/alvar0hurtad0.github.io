@@ -49,7 +49,7 @@ Symfony no sólo es una colección de bibliotecas, sino que también está equip
 Ya se ha hablado sobre muchos factores de organización, dinero y diseño. Sin embargo, puede quedar alguna duda sobre que mecanismos protegen a un webmaster de un ataque a su sitio. Aquí están algunos de ellos:
 
 
-* Las contraseñas de los usuarios se almacenan en forma de hash, usando sal y función multiplicativa de hash. Esto hace que los ataques de fuerza bruta sean más difíciles de llevar a cabo.
+* Las contraseñas de los usuarios se almacenan en forma de hash, usando salt más función multiplicativa de hash. Esto hace que los ataques de fuerza bruta sean muy difíciles de llevar a cabo.
 
 
 * La configuración del sitio puede ser guardada en archivos .yml y comparada con su versión anterior. Además, suele exportarse en código en el repositorio. Esta es una excelente solución que limita en gran medida la posibilidad de una infección inadvertida de la base de datos.
