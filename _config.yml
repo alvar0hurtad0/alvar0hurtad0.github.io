@@ -1,7 +1,7 @@
 # Site
 name: "alvar0hurtad0"
 title: "alvar0hurtad0"
-description: "Drupal developer based in Spain."
+description: "Persona y desarrollador drupal."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -41,7 +41,7 @@ authors:
     email: alvaro.hurtado.villegas@gmail.com
     web: https://www.alvar0hurtad0.es
     twitter: https://twitter.com/alvar0hurtad0
-    description: "Drupal developer based in Spain."
+    description: "Persona y desarrollador drupal."
 
 # Plugins
 plugins:
