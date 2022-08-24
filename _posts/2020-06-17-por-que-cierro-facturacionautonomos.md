@@ -35,3 +35,5 @@ Estoy pagando el servidor, la asesoría legal y el dominio. No es mucho, pero es
 La respuesta es: claramente NO.
 
 Sigo pensando que vender mi tiempo no es el mejor medio de vida que llevar a cabo. Tener un producto del que poder vivir sin tener que vender el tiempo que me queda de vida es, sin lugar a dudas, lo mejor que puedo hacer. Por otro lado hay que saber reconocer cuándo una idea ha fracasado y facturacionautonomos es un fracaso del que espero aprender mucho.
+
+Además de todo esto, llevo aproximadamente un año luchando contra una enfermedad que requiere todavía más de toda mi energía. Sé que voy a ganar esta batalla, pero no puedo permitirme el lujo de dedicar mi tiempo a nada que no me haga feliz.
