@@ -3,8 +3,8 @@ layout: post
 title:  "Por qué cierro facturacionautonomos"
 author: alvaro
 categories: [ Personal ]
-image: assets/images/closed.png
-image_credits: https://alvar0hurtad0.es
+image: assets/images/closed.jpg
+image_credits: https://unsplash.com/photos/iaSzwYccV28
 description: "Después de 10 años he decidido cerrar mi side-project. Creo que no es viable y necesito eliminar preocupaciones de mi vida."
 featured: false
 hidden: false
